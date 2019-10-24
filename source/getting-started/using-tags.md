@@ -32,7 +32,7 @@ If you want to actually read the Struts 2 tag TLD file, you'll find it in the `M
 
 One use of the Struts 2 Tags is to create links to other web resources, especially to other resources in the local application.
 
-While HTML provides a simple a tag for creating hyperlinks, the HTML tag often requires us to include redundant information. 
+While HTML provides a simple tag for creating hyperlinks, the HTML tag often requires us to include redundant information. 
 Also the HTML tag cannot easily access dynamic data provided by the framework.
 
 A very common use case in web applications is linking to other pages. In the [Hello World](hello-world-using-struts2.html) 
